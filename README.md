@@ -21,6 +21,7 @@ KirillDevX
 **GitHub:** [KirillDevX](https://github.com/KirilldevX)
 **Kwork:** [Мой профиль на Kwork](https://kwork.ru/user/kirilldevx)
 **Youtube** [KirillDevX](https://www.youtube.com/@KirillDevX)
+
 **Desktop**
 <img width="2559" height="1308" alt="image" src="https://github.com/user-attachments/assets/62ce66a4-931d-489f-b5a4-dfb1b50c0e60" />
 **Phone**
